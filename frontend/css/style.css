@@ -8,13 +8,13 @@
   --font-primary: "Bree", sans-serif;
   --font-secondary: "Varta", serif;
   --font-code: "Varta", monospace;
-  --bg-color: #00163f;
-  --bg-color-transparent: #00163f80;
+  --bg-color: #a3979f;
+  --bg-color-transparent: #999a8c;
   --font-color: #ffffff;
-  --btn-bg-color: #651717;
-  --accent-color: #a55fd5;
-  --header-shadow: var(--accent-color) 0px 0px 5px;
-  --card-shadow: var(--accent-color) 0px 0px 20px;
+  --btn-bg-color: #999ea4;
+  --accent-color: #c4beb8;
+  --header-shadow: var(--accent-color) 0px 0px 0px;
+  --card-shadow: var(--accent-color) 0px 0px 0px;
 }
 
 * {
