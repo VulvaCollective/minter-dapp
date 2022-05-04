@@ -1,4 +1,4 @@
-const contractAddress = "0x04407F84A4c6BacBAC2e665611582584b78F07C8"; //Replace with your own contract address
+const contractAddress = "0x79b2D5D5E3FD435b4B23c78aFe0517dEfb7b6452"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to The Vulva Collective NFT Project!!";
